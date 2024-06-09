@@ -93,3 +93,36 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+## 👨‍💻 Expert
+
+  <img 
+    style="float: left; margin: 10px; width: 80px;" 
+    src="https://i.ibb.co/DpnzHM2/felipe.png" 
+    alt="felipe"
+    border="0"
+  />
+</p>
+    <p>&nbsp&nbsp&nbspLuis Felipe Souza Santos<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/LFelipe1988">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/luis-felipe-souza-75287a306/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/luisfelipe8982/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
